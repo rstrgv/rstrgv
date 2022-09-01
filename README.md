@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Creative Designer</h3>
 <h3>Skills</h3>
-<ul>
+<ul type="square">
      <li></li>
      <li></li>
      <li></li>
