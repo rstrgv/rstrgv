@@ -3,8 +3,8 @@
 <h3 align="center">Creative Designer</h3>
 <h3>Skills</h3>
 <ul>
-     <li>01</li>
-     <li>02</li>
-     <li>03</li>
-     <li>04</li>
+     <li></li>
+     <li></li>
+     <li></li>
+     <li></li>
    </ul>
