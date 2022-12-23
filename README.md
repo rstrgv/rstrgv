@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="www.rstrgv.ru" target="_blank">Igor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Creative Designer from Russia</h3>
-# 💫 About Me:
+<h3>About Me:</h3>
 🔭 I’m currently working in design of consulting<br>👯 I’m looking to collaborate on your projects and works<br>🏋️‍♀️ I’m can support with your design, UX/UI, visualization and many more :)<br>💬 Ask me about how I could help you
 
 
